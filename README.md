@@ -1,1 +1,1 @@
-# Qt-GUI-
+Creating GUI based on Qt Designer
